@@ -3,6 +3,8 @@
 Greece interactive map is a map chart (Greece map) with its regions.
 Based on amcharts library.
 
+See it online on Github Pages: https://gioiliop7.github.io/greeceinteractivemap/
+
 
 ## Usage
 
